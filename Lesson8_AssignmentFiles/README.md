@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 12, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Megan Mulhall)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we had to use JSON and AJAX to add information in the movie database that was created)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+()
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (AJAX relies on JavaScript and JSON or XML)
+2. (JSON stands for JavaScript Object Notation)
+3. (JSON is a lightweight language subset from JavasSript )
